@@ -22,6 +22,3 @@ to-do-app/
 │── login.js
 │── script.js
 │── style.css
-
-## Author
-Rakshani MK
