@@ -24,4 +24,4 @@ to-do-app/
 │── style.css
 
 ## Author
-Your Name
+Rakshani MK
